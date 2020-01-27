@@ -3,3 +3,4 @@ bs4==0.0.1
 beautifulsoup4==4.8.1
 html5lib==1.0.1
 requests==2.22.0
+flask-jwt==0.3.2
